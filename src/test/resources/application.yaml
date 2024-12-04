@@ -1,0 +1,2 @@
+servicelog:
+  url: localhost:8090/api/servicelog
